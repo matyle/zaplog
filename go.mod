@@ -1,4 +1,4 @@
-module zaplog
+module github.com/matyle/zaplog
 
 go 1.22.1
 

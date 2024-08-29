@@ -4,7 +4,8 @@ import (
 	"os"
 	"sync"
 	"time"
-	"zaplog/zapencoder"
+
+	"github.com/matyle/zaplog/zapencoder"
 
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
